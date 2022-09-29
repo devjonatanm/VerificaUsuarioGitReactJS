@@ -1,2 +1,1 @@
 # VerificaUsuarioGitReactJS
-Created with CodeSandbox
